@@ -1,4 +1,4 @@
-Bike Rental System
+# Bike Rental System
 A simple Bike Rental System implemented in Python, allowing users to view available bikes and rent bikes.
 
 Features
